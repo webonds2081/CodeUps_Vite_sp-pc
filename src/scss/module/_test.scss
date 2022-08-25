@@ -1,0 +1,11 @@
+@use 'src/scss/global' as *;
+@use "sass:math";
+@use "sass:color";
+
+.test {
+  font-size: rem(20);
+  background-image: url('../../assets/images/dummy.jpg');
+  background-size: cover;
+  background-position: center;
+  color: $white;
+}
