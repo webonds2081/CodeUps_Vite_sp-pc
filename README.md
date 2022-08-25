@@ -51,4 +51,6 @@
 - vite-plugin-imageminで実行させてます
 - 不要な場合はvite.config.jsの「viteImagemin」の記述部分とプラグインvite-plugin-imageminを削除してください
 
-# CodeUps_1cw_sk-Vite_sp-pc
+# Notionにも使い方の記述があります
+- スクショ付きで解説してあります
+https://thinkable-latency-bb8.notion.site/Vite-c9f1e98587f84f43b3be8d11ef427ea6
